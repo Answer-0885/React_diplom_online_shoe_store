@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_diplom_online_shoe_store/static/css/main.f2e38048.css",
+    "main.js": "/React_diplom_online_shoe_store/static/js/main.a92b56dc.js",
+    "static/media/banner.jpg": "/React_diplom_online_shoe_store/static/media/banner.5fd2c60d58a8686daee0.jpg",
+    "static/media/footer-sprite.png": "/React_diplom_online_shoe_store/static/media/footer-sprite.b3d5697aeb76ce9f8002.png",
+    "index.html": "/React_diplom_online_shoe_store/index.html",
+    "main.f2e38048.css.map": "/React_diplom_online_shoe_store/static/css/main.f2e38048.css.map",
+    "main.a92b56dc.js.map": "/React_diplom_online_shoe_store/static/js/main.a92b56dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e38048.css",
+    "static/js/main.a92b56dc.js"
+  ]
+}
